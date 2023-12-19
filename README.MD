@@ -13,4 +13,6 @@ for last  point u need:
 3.  link  with  git remote add
 
 this is pisture for success:
-![](https://dpo.novsu.ru/upload/iblock/0ce/udclrh4ay3jbdbxqqmw7z2z6shc3zrww.jpeg
+
+![](https://dpo.novsu.ru/upload/iblock/0ce/udclrh4ay3jbdbxqqmw7z2z6shc3zrww.jpeg)
+
